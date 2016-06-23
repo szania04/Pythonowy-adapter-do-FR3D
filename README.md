@@ -18,7 +18,6 @@ FR3D jest biblioteką matlaba (dostępne kody źródłowe). Celem projektu jest 
 - zAngleOfRotation 
 - zAxisAngle 
 - zAxisAngleRadians
-- zBestRotation 
 - zCheckCutoffs 
 - zCheckHydrogen 
 - zClassLimits 

@@ -1,0 +1,7 @@
+import numpy as np
+
+def zangle(a, b, c):
+    d = a - b
+    e = c - b
+    return 180 * np.arccos(d * np.transpose(e) / (np.linalg.norm(d) * np.linalg.norm(e))) / np.pi
+
